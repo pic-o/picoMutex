@@ -1,0 +1,5 @@
+# Documents helper script
+makeDocs.sh
+# Document cache
+.docsCache
+.docsCache/*
